@@ -2,6 +2,9 @@ package br.com.victor.service;
 
 import br.com.victor.dao.IContratoDao;
 
+/**
+ * @author victor.vianna
+ */
 public class ContratoService implements IContratoService {
 
     private IContratoDao contratoDao;
